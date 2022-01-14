@@ -105,3 +105,14 @@ input{
         width: 100%;
     }
 }
+
+@media screen and (max-width:315px) {
+    .container{
+        text-align: center;
+    }
+
+    .container-resulte2{
+        float: none;
+    }
+}
+
